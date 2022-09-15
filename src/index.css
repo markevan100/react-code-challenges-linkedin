@@ -47,3 +47,21 @@ body {
   padding: 0px;
   margin: 0px;
 }
+
+html, body {
+  font-family: sans-serif;
+}
+
+input, label {
+  display: block;
+  margin: 8px auto;
+}
+
+input {
+  padding: 8px;
+  width: 300px;
+}
+
+input[type=submit] {
+  width: 100px;
+}
